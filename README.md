@@ -24,12 +24,12 @@ A powerful and intuitive platform for managing users with various roles and perm
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AbhisekhNayek/user-management-system.git
+   git clone https://github.com/AbhisekhNayek/User-Management-System-UI.git
    ```
    
 2. Navigate into the project directory:
    ```bash
-   cd user-management-system
+   cd User-Management-System-UI
    ```
    
 3. Install dependencies:
